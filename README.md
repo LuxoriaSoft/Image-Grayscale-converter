@@ -1,1 +1,0 @@
-# Image-Grayscale-converter
